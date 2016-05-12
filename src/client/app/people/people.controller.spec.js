@@ -6,10 +6,21 @@ describe('PeopleController', function() {
   beforeEach(function() {
     bard.appModule('app.people');
     bard.inject('$controller', '$log', '$q', '$rootScope', 'dataservice');
+    controller = $controller('PeopleController');
   });
 
-  it('hello test',function() {
-    expect('hello').to.equal('hello');
+  it('should exist',function() {
+    expect(controller).to.exist;
   });
+
+  it('should have empty people array before activation',function() {
+    expect(controller.people).to.exist;
+  });
+
+  it('should have people after activation',function() {
+    expect(controller.people).to.have.length.above(0);
+  });
+
+
 
 });
