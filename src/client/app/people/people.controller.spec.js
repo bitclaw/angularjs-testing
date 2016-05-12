@@ -2,6 +2,7 @@
 describe('PeopleController', function() {
      var controller;
      var people = mockData.getMockPeople();
+    console.debug(people);
 
   beforeEach(function() {
       bard.appModule('app.people');
