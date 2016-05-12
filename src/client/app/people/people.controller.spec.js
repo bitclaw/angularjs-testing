@@ -7,7 +7,7 @@ describe('PeopleController', function() {
       bard.appModule('app.people');
       bard.inject('$controller', '$log', '$q', '$rootScope');
 
-      var ds - {
+      var ds = {
           getPeople: function() {
               return $q.when(people);
           }
@@ -28,6 +28,11 @@ describe('PeopleController', function() {
   it('should have people after activation',function() {
       $rootScope.$apply;
       expect(controller.people).to.have.length.above(0);
+  });
+    
+  it('should have mock people after activation',function() {
+      $rootScope.$apply;
+      expect(controller.people).to.have.length(people.length);
   });
 
 });

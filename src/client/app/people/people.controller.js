@@ -10,6 +10,7 @@
   function PeopleController($q, dataservice, logger) {
     var vm = this;
     vm.people = [{}];
+    getPeople();
 
     function getPeople() {
       dataservice.getPeople()
