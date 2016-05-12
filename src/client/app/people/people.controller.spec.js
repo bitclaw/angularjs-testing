@@ -1,5 +1,5 @@
 /* jshint -W117, -W030 */
-describe.only('PeopleController', function() {
+describe('PeopleController', function() {
   var controller;
   var people = mockData.getMockPeople();
 
