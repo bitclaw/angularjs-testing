@@ -2,21 +2,11 @@
 describe('PeopleController', function() {
     var controller;
     var people = mockData.getMockPeople();
-    var $controller;
-    var $log;
-    var $q;
-    var $rootScope;
 
     beforeEach(function() {
-        module('app.people');
-        inject(function(_$controller_,_$log_,_$q_,_$rootScope_){
-            $controller = _$controller_;
-            $log = _$log_;
-            $q = _$q_;
-            $rootScope = _$rootScope_;
-        });
-//        bard.appModule('app.people');
-//        bard.inject('$controller', '$log', '$q', '$rootScope');
+
+        bard.appModule('app.people');
+        bard.inject('$controller', '$log', '$q', '$rootScope');
 
         var ds = {
             getPeople: function() {
