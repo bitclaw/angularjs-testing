@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf44019a-9a12-4e88-8766-546966ef40ce" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/images/AngularJS-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/images/busy.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/images/gulp-tiny.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/angularjs-testing.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/admin/admin.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/admin/admin.controller.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/admin/admin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/admin/admin.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/admin/admin.route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/admin/admin.route.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/app.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/blocks/exception/exception-handler.provider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/blocks/exception/exception-handler.provider.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/blocks/exception/exception.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/blocks/exception/exception.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/blocks/logger/logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/blocks/logger/logger.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/blocks/router/router-helper.provider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/blocks/router/router.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/core/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/core/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/core/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/core/core.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/core/core.route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/core/core.route.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/core/dataservice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/dashboard/dashboard.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/dashboard/dashboard.controller.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/dashboard/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/dashboard/dashboard.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/dashboard/dashboard.route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/dashboard/dashboard.route.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/ht-sidebar.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/ht-sidebar.directive.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/ht-top-nav.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/ht-top-nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/layout.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/shell.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/shell.controller.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/shell.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/sidebar.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/sidebar.controller.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/widgets/ht-img-person.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/widgets/ht-widget-header.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/widgets/widget-header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/widgets/widgets.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/specs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/styles/styles.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/test-helpers/mock-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/utils/404.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    </list>
+    <ignored path="angularjs-testing.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="angularjs-testing" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Daniel Chavez &lt;bitclaw@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="width" value="1368" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularjs-testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularjs-testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularjs-testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="editor.config.accepted" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf44019a-9a12-4e88-8766-546966ef40ce" name="Default" comment="" />
+      <created>1462980844940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1462980844940</updated>
+      <workItem from="1462980846296" duration="3743000" />
+      <workItem from="1463006147708" duration="1429000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add README.md">
+      <created>1462991429132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1462991429132</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5172000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1368" height="743" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24944155" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32475883" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add README.md" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/node_modules/generator-hottowel/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+  </component>
+</project>
