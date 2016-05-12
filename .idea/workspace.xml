@@ -2,76 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf44019a-9a12-4e88-8766-546966ef40ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/images/AngularJS-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/images/busy.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/images/gulp-tiny.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/images/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/angularjs-testing.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/admin/admin.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/admin/admin.controller.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/admin/admin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/admin/admin.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/admin/admin.route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/admin/admin.route.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/app.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/blocks/exception/exception-handler.provider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/blocks/exception/exception-handler.provider.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/blocks/exception/exception.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/blocks/exception/exception.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/blocks/logger/logger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/blocks/logger/logger.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/blocks/router/router-helper.provider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/blocks/router/router.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/core/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/core/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/core/constants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/core/core.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/core/core.route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/core/core.route.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/core/dataservice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/dashboard/dashboard.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/dashboard/dashboard.controller.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/dashboard/dashboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/dashboard/dashboard.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/dashboard/dashboard.route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/dashboard/dashboard.route.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/ht-sidebar.directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/ht-sidebar.directive.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/ht-top-nav.directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/ht-top-nav.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/layout.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/shell.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/shell.controller.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/shell.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/sidebar.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/sidebar.controller.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/layout/sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/widgets/ht-img-person.directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/widgets/ht-widget-header.directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/widgets/widget-header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/widgets/widgets.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/specs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/styles/styles.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/test-helpers/mock-data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/routes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/utils/404.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/people/people.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/people/people.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/people/people.module.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/angularjs-testing.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="angularjs-testing.iws" />
@@ -93,16 +30,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="people.module.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/client/app/people/people.module.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="people.controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/client/app/people/people.controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="people.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/client/app/people/people.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -120,6 +84,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -129,9 +94,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="width" value="1368" />
-    <option name="height" value="743" />
+    <option name="x" value="1365" />
+    <option name="width" value="1682" />
+    <option name="height" value="1025" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -159,7 +124,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -180,6 +144,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,6 +152,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
     <property name="editor.config.accepted" value="true" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
@@ -265,7 +231,8 @@
       <option name="presentableId" value="Default" />
       <updated>1462980844940</updated>
       <workItem from="1462980846296" duration="3743000" />
-      <workItem from="1463006147708" duration="1429000" />
+      <workItem from="1463006147708" duration="1745000" />
+      <workItem from="1463053993634" duration="202000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1462991429132</created>
@@ -274,22 +241,29 @@
       <option name="project" value="LOCAL" />
       <updated>1462991429132</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add file structure.">
+      <created>1463017709908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1463017709908</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5172000" />
+    <option name="totallyTimeSpent" value="5690000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1368" height="743" extended-state="6" />
+    <frame x="1365" y="0" width="1682" height="1025" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24944155" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24924563" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32475883" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32411504" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -307,13 +281,41 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add README.md" />
+    <MESSAGE value="Add file structure." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add file structure." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karma.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -325,10 +327,41 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/node_modules/generator-hottowel/README.md">
+    <entry file="file://$PROJECT_DIR$/app/node_modules/generator-hottowel/README.md" />
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="26" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2107">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karma.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -336,15 +369,36 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/client/app/people/people.module.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/app/people/people.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/app/people/people.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
