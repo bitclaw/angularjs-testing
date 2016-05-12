@@ -9,6 +9,13 @@
   /* @ngInject */
   function PeopleController($q, dataservice, logger) {
     var vm = this;
-    
+
+    function getPeople() {
+      dataservice.getPeople()
+        .then(function(people) {
+          vm.people = people;
+          logger.success('Got some people');
+        });
+    }
   }
 })();
