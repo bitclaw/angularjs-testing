@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf44019a-9a12-4e88-8766-546966ef40ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/people/people.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/people/people.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/client/app/people/people.module.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/angularjs-testing.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="angularjs-testing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -232,7 +225,7 @@
       <updated>1462980844940</updated>
       <workItem from="1462980846296" duration="3743000" />
       <workItem from="1463006147708" duration="1745000" />
-      <workItem from="1463053993634" duration="202000" />
+      <workItem from="1463053993634" duration="279000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1462991429132</created>
@@ -248,11 +241,18 @@
       <option name="project" value="LOCAL" />
       <updated>1463017709908</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add people module and remove .idea folder. Update .gitignore.">
+      <created>1463054233280</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1463054233280</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5690000" />
+    <option name="totallyTimeSpent" value="5767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1365" y="0" width="1682" height="1025" extended-state="6" />
@@ -282,7 +282,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add README.md" />
     <MESSAGE value="Add file structure." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add file structure." />
+    <MESSAGE value="Add people module and remove .idea folder. Update .gitignore." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add people module and remove .idea folder. Update .gitignore." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
