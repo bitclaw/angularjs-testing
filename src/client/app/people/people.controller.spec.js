@@ -42,7 +42,7 @@ describe('PeopleController', function() {
         it('should have mock people',function() {
             $rootScope.$apply;
             console.debug(controller.people);
-            expect(controller.people).to.have.length(people.length);
+            expect(controller.people).to.have.length(1);
         });
     });
 
