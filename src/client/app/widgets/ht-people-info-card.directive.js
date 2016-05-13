@@ -8,13 +8,12 @@
   htPeopleInfoCard.$inject = ['config'];
   /* @ngInject */
   function htPeopleInfoCard(config) {
-    var directive = {
+
+    return {
       //link: link,
       templateUrl: 'app/widgets/ht-people-info-card.html',
       restrict: 'E'
     };
-
-    return directive;
 
     // function link(scope, element, attrs) {
     //   attrs.$observe('htImgPerson', function(value) {
