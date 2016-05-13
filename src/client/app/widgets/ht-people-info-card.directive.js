@@ -10,7 +10,7 @@
   function htPeopleInfoCard(config) {
     var directive = {
       //link: link,
-      template: 'User Info Card',
+      templateUrl: 'app/widgets/ht-people-info-card.html',
       restrict: 'E'
     };
 
