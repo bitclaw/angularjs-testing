@@ -12,6 +12,7 @@
     return {
       //link: link,
       templateUrl: 'app/widgets/ht-people-info-card.html',
+      replace: true,
       restrict: 'E'
     };
 
