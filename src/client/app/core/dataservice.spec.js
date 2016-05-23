@@ -13,7 +13,7 @@ describe('dataservice', function() {
     dataservice.getMessageCount().then(function(data) {
       expect('hello').to.equal('TEST');
       console.debug(data);
-      //expect(data).exists;
+      //expect(data).to.exist;
     });
     $rootScope.$apply;
   });
