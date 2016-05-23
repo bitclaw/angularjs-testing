@@ -28,13 +28,15 @@ describe('PeopleController', function() {
   });
 
   describe('after activation', function() {
-    it('should have people',function() {
+    beforeEach(function() {
       $rootScope.$apply;
+    });
+
+    it('should have people',function() {
       expect(controller.people).to.have.length.above(0);
     });
 
     it('should have mock people',function() {
-      $rootScope.$apply;
       console.debug(people);
       console.debug(controller);
       expect(controller.people).to.have.length(people.length);
