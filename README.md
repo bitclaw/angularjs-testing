@@ -26,4 +26,4 @@ Running the optimized code
 
 Run the optimize project from the build folder with gulp serve-build
 
-gulp server-specs to show tests in browser
+gulp serve-specs to show tests in browser
