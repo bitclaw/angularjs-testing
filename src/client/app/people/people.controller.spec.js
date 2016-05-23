@@ -36,11 +36,11 @@ describe('PeopleController', function() {
       expect(controller.people).to.have.length.above(0);
     });
 
-    it('should have mock people',function() {
-      console.debug(people);
-      console.debug(controller);
-      expect(controller.people).to.have.length(people.length);
-    });
+    // it('should have mock people',function() {
+    //   console.debug(people);
+    //   console.debug(controller);
+    //   expect(controller.people).to.have.length(people.length);
+    // });
   });
 
 });
