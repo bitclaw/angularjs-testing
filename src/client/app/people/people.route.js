@@ -31,15 +31,8 @@
         state: 'person',
         config: {
           url: '/person/:id',
-          //templateUrl: 'app/people/people.html',
           template: '<div>person view</div>',
-          //controller: 'PersonController',
-          //controllerAs: 'vm',
           title: 'person'
-          // settings: {
-          //   nav: 3,
-          //   content: '<i class="fa fa-user"></i> People'
-          // }
         }
       }
     ];

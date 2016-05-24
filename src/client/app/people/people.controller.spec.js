@@ -32,6 +32,10 @@ describe('PeopleController', function() {
       $rootScope.$apply();
     });
 
+    it('selecting a person triggers a state change',function() {
+    
+    });
+
     it('should have people',function() {
       expect(controller.people).to.have.length.above(0);
     });
