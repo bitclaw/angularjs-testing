@@ -27,9 +27,9 @@ describe('dataservice', function() {
   it('getPeople reports error if server fails' , function() {
     $httpBackend
       .when('GET', '/api/people')
-      .respond(500,{data: {description: 'you fail'}});
+      .respond(500,{description: 'you fail'});
     dataservice.getPeople().catch(function(error) {
-      expect(true).to.be.false;
+      expect(error.data.description).to.match(/you fail/);
     });
     $httpBackend.flush();
   });
