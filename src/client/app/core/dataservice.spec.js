@@ -16,8 +16,22 @@ describe('dataservice', function() {
     $rootScope.$apply();
   });
 
-  it.skip('getPeople returns an array of people' , function() {
+  it('getPeople hits the right /api/people' , function() {
+    $httpBackend.when('GET', '/api/people').respond(200,[{}]);
+    dataservice.getPeople().then(function(data) {
+      expect(data).to.exist;
+    });
+    $httpBackend.flush();
+  });
 
+  it('getPeople reports error if server fails' , function() {
+    $httpBackend
+      .when('GET', '/api/people')
+      .respond(500,{data: {description: 'you fail'}});
+    dataservice.getPeople().catch(function(error) {
+      expect(true).to.be.false;
+    });
+    $httpBackend.flush();
   });
 
 });
