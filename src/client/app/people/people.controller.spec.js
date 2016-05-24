@@ -29,7 +29,7 @@ describe('PeopleController', function() {
 
   describe('after activation', function() {
     beforeEach(function() {
-      $rootScope.$apply;
+      $rootScope.$apply();
     });
 
     it('should have people',function() {
@@ -37,10 +37,9 @@ describe('PeopleController', function() {
     });
 
     it('should have mock people',function() {
-      console.debug(people);
-      console.debug(controller);
       expect(controller.people).to.have.length(people.length);
     });
+
   });
 
 });

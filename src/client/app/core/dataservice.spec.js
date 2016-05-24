@@ -11,11 +11,9 @@ describe('dataservice', function() {
 
   it('getMessageCount returns a value' , function() {
     dataservice.getMessageCount().then(function(data) {
-      expect('hello').to.equal('TEST');
-      console.debug(data);
-      //expect(data).to.exist;
+      expect(data).to.exist;
     });
-    $rootScope.$apply;
+    $rootScope.$apply();
   });
 
   it.skip('getPeople returns an array of people' , function() {
