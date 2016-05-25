@@ -33,7 +33,7 @@ describe('PeopleController', function() {
     });
 
     it('selecting a person triggers a state change',function() {
-    
+
     });
 
     it('should have people',function() {

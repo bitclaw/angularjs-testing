@@ -7,7 +7,7 @@
 
   PeopleController.$inject = ['$q','$state', 'dataservice', 'logger'];
   /* @ngInject */
-  function PeopleController($q, dataservice, logger) {
+  function PeopleController($q , $state , dataservice, logger) {
     var vm = this;
     vm.people = [{}];
     //vm.goToPerson = goToPerson();
