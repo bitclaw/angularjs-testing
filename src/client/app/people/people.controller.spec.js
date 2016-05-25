@@ -5,7 +5,7 @@ describe('PeopleController', function() {
 
   beforeEach(function() {
     bard.appModule('app.people');
-    bard.inject(this, '$controller','$q', '$rootScope','$state');
+    bard.inject('$controller','$q', '$rootScope');
 
     var ds = {
       getPeople: function() {
@@ -29,6 +29,7 @@ describe('PeopleController', function() {
 
   describe('after activation', function() {
     beforeEach(function() {
+      bard.inject('$state');
       $rootScope.$apply();
     });
 
