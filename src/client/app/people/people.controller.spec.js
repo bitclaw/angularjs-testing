@@ -5,7 +5,7 @@ describe('PeopleController', function() {
 
   beforeEach(function() {
     bard.appModule('app.people');
-    bard.inject(this, '$controller','$q', '$rootScope');
+    bard.inject(this, '$controller','$q', '$rootScope','$state');
 
     var ds = {
       getPeople: function() {
@@ -33,7 +33,8 @@ describe('PeopleController', function() {
     });
 
     it('selecting a person triggers a state change',function() {
-
+      controller.goToPerson({id: 3});
+      expect($state.current.name).to.equal('person');
     });
 
     it('should have people',function() {
