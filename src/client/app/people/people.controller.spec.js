@@ -4,7 +4,8 @@ describe('PeopleController', function() {
   var people = mockData.getMockPeople();
 
   beforeEach(function() {
-    bard.appModule('app.people');
+    //bard.appModule('app.people');
+    module('app.people');
     bard.inject('$controller','$q', '$rootScope');
 
     var ds = {
@@ -35,6 +36,7 @@ describe('PeopleController', function() {
 
     it('selecting a person triggers a state change',function() {
       controller.goToPerson({id: 3});
+      $rootScope.$apply();
       expect($state.current.name).to.equal('person');
     });
 

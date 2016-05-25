@@ -16,7 +16,7 @@
                 </tr>
                 </thead>
                 <tbody>
-                <tr ng-repeat="p in vm.people" ng-click="vm.goToPerson()">
+                <tr ng-repeat="p in vm.people" ng-click="vm.goToPerson(p)">
                   <td>{{p.id}}</td>
                   <td>{{p.firstName}}</td>
                   <td>{{p.lastName}}</td>
